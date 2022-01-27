@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: French
 description: Learn French
+
+layout: page
+title: "PAGE TITLE"
+permalink: /family.md
